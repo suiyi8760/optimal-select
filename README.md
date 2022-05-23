@@ -1,3 +1,5 @@
+## *: fork from optimal-select,mostly fixed that package.json's `module` fill with a empty path
+
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
 # optimal select
