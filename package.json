@@ -1,5 +1,5 @@
 {
-  "name": "@johnnyxu/optimal-select",
+  "name": "@fexzy/optimal-select",
   "description": "Get efficient & robust CSS selectors for HTML elements",
   "version": "4.1.0",
   "author": "Stefan Dühring | Autarc <autarc@gmail.com>",
